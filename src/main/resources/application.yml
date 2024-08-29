@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: keycloak
+
+server:
+  port: 8090
